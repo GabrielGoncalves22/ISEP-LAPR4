@@ -1,2 +1,2 @@
-# ISEP-LAPR4
-Projeto de LAPR4 - ISEP (2022/2023)
+# LAPR4 (2022-2023)
+Este repositório contém o projeto realizado na unidade curricular de Laboratório de Projeto 4 **(LAPR4)** seguindo as boas práticas de engenharia de *software* e utilizando a linguagem Java, C e ANTLR. Além disso foi utilizada a comunicação entre servidores e clientes (TCP) e o JPA.
